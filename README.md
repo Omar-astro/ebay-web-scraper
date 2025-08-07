@@ -75,7 +75,8 @@ Apply filters and transformations like:
    - Run scraping, graph loading, and visualization steps
 4. Finally, execute the GUI cell to launch the full app
 
-> 📄 Full detailed usage instructions available in the [project report PDF](./eBay_Report.pdf)
+> 📄 Full detailed usage instructions available in the [project report PDF](./eBay%20System%20Application%20Report.pdf)
+
 
 ---
 
@@ -98,8 +99,11 @@ Apply filters and transformations like:
 ## 👤 Author
 
 **Omar Ashraf Mahmoud**  
-ID: 202400725  
-📧 s-omar.amahmoud@zewailcity.edu.eg
+🎓 Computer Science Major – Data Science & Artificial Intelligence (DSAI)  
+🏫 Zewail City of Science and Technology  
+🆔 Student ID: 202400725  
+📧 College Email: s-omar.amahmoud@zewailcity.edu.eg  
+📬 Personal Email: omar.ashraf.hamed2017@gmail.com
 
 ---
 
