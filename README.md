@@ -42,6 +42,19 @@ Apply filters and transformations like:
 
 ---
 
+## 🚀 Main Application File
+
+**📄 DSAI 103 project.ipynb**  
+This is the primary Jupyter Notebook that runs the entire system. It includes:
+- Web scraping logic using Selenium and SerpAPI
+- GUI design and controls
+- Item/seller data visualization through graphs
+- Built-in photo editing tools
+
+👉 [Click here to open the main notebook](./DSAI%20103%20project.ipynb)
+
+---
+
 ## ⚙️ How to Run the App
 
 > 💡 This project is implemented as a Jupyter Notebook (`.ipynb`)
