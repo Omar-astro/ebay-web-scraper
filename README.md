@@ -91,8 +91,64 @@ Apply filters and transformations like:
 
 ---
 
-## 📸 Screenshots (Optional)
-> Add here if you want some cool UI screenshots or demo gifs of your app in action!
+## 📸 Screenshots
+
+### 🧭 Main Menu
+Displays the starting window where the user selects the scraping platform.
+  
+![Main Menu](./assets/Ebay-menu.png)
+
+---
+
+### 🔍 Item Inspection Window
+Displays detailed info for the selected item and seller, with image and rating data.
+
+![Item Inspection](./assets/Ebay-ItemInspect.png)
+
+---
+
+### 📊 Condition & Seller Graphs
+Visualizes the condition of items and how many units each seller sold.
+
+![Graph 1](./assets/Ebay-Graph.png)
+
+![Graph 2](./assets/Ebay-Graph2.png)
+
+---
+
+### 🥧 Pie Chart for Ratings
+Generates pie charts for both item and seller ratings (when available).
+
+![Pie Graph](./assets/Ebay-PieGraph.png)
+
+---
+
+### 🌍 Heatmap Graph
+Displays the origin of item delivery on a world map using a heatmap.
+
+![Heatmap](./assets/Ebay-HeatMap.png)
+
+---
+
+### 🕸️ NetworkX Graph
+Analyzes price-based similarity between items using NetworkX.
+
+![NetworkX](./assets/Ebay-NetworkX.png)
+
+---
+
+### 🔺 3D Graph
+Plots item price, shipping, and title length in a 3D space for correlation analysis.
+
+![3D Graph](./assets/Ebay-3DGraph.png)
+
+---
+
+### 🎨 Photo Editing Tools
+Applies visual transformations to item images like grayscale, negative, brightness, and edge detection.
+
+![Photo Editing](./assets/Ebay-PhotoEdit.png)
+
 
 ---
 
@@ -112,7 +168,4 @@ Apply filters and transformations like:
 This project is licensed under the [MIT License](./LICENSE).  
 Feel free to use, modify, and build upon this work — just make sure to give credit to the original author.
 
----
-
-## 📁 File Structure Overview (optional)
 
