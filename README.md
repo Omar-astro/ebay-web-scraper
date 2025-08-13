@@ -2,6 +2,8 @@
 
 An interactive Python-based system that scrapes data from eBay, analyzes item and seller info, and visualizes results using custom-built GUIs and graphs.
 
+Note: If the project does not function correctly, the file may be outdated in relation to the website.
+
 > 📌 Created entirely by **Omar Ashraf Mahmoud**  
 > Solo-developed, with all code and logic authored independently.  
 > Includes photo editing tools, rating graphs, 3D comparisons, and even heatmaps.
